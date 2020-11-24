@@ -1,0 +1,10 @@
+dataclasses==0.8
+fastapi==0.61.2
+numpy==1.19.4
+opencv-python==4.4.0.46
+Pillow==8.0.1
+pydantic==1.7.2
+pytesseract==0.3.6
+python-multipart==0.0.5
+six==1.15.0
+starlette==0.13.6
